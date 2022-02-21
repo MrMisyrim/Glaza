@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Rock Salt', cursive;
+}
+
+h1 {
+    position: absolute;
+    width: 516px;
+    height: 156px;
+    left: 702px;
+    top: 81px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 100px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.ds {
+    position: absolute;
+    font-size: 64px;
+    width: 105px;
+    height: 118px;
+    left: 1056px;
+    top: 849px;
+}
+.vk {
+    position: absolute;
+    font-size: 64px;
+    width: 92px;
+    height: 118px;
+    left: 743px;
+    top: 849px;
+}
+.lzt {
+    position: absolute;
+    font-size: 64px;
+    width: 169px;
+    height: 100px;
+    left: 861px;
+    top: 849px;
+}
+.container {
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+img {
+    width: 100%;
+}
